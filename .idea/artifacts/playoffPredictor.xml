@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="playoffPredictor">
+    <output-path>$PROJECT_DIR$/out/artifacts/playoffPredictor</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Playoff Predictor" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="playoffPredictor.jar">
+        <element id="module-output" name="playoffPredictor" />
+      </element>
+    </root>
+  </artifact>
+</component>
